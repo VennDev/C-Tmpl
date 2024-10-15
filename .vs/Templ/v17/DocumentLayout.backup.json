@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VennDev\\OneDrive\\Desktop\\All\\Homework\\Templ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBA605A-DFAE-459F-9455-DDD3CAF7ABAD}|Templ\\Templ.csproj|c:\\users\\venndev\\onedrive\\desktop\\all\\homework\\templ\\templ\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBA605A-DFAE-459F-9455-DDD3CAF7ABAD}|Templ\\Templ.csproj|solutionrelative:templ\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBA605A-DFAE-459F-9455-DDD3CAF7ABAD}|Templ\\Templ.csproj|c:\\users\\venndev\\onedrive\\desktop\\all\\homework\\templ\\templ\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBA605A-DFAE-459F-9455-DDD3CAF7ABAD}|Templ\\Templ.csproj|solutionrelative:templ\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBA605A-DFAE-459F-9455-DDD3CAF7ABAD}|Templ\\Templ.csproj|c:\\users\\venndev\\onedrive\\desktop\\all\\homework\\templ\\templ\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBA605A-DFAE-459F-9455-DDD3CAF7ABAD}|Templ\\Templ.csproj|solutionrelative:templ\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBA605A-DFAE-459F-9455-DDD3CAF7ABAD}|Templ\\Templ.csproj|c:\\users\\venndev\\onedrive\\desktop\\all\\homework\\templ\\templ\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBA605A-DFAE-459F-9455-DDD3CAF7ABAD}|Templ\\Templ.csproj|solutionrelative:templ\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBA605A-DFAE-459F-9455-DDD3CAF7ABAD}|Templ\\Templ.csproj|c:\\users\\venndev\\onedrive\\desktop\\all\\homework\\templ\\templ\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EBA605A-DFAE-459F-9455-DDD3CAF7ABAD}|Templ\\Templ.csproj|solutionrelative:templ\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBA605A-DFAE-459F-9455-DDD3CAF7ABAD}|Templ\\Templ.csproj|c:\\users\\venndev\\onedrive\\desktop\\all\\homework\\templ\\templ\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0EBA605A-DFAE-459F-9455-DDD3CAF7ABAD}|Templ\\Templ.csproj|solutionrelative:templ\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBA605A-DFAE-459F-9455-DDD3CAF7ABAD}|Templ\\Templ.csproj|c:\\users\\venndev\\onedrive\\desktop\\all\\homework\\templ\\templ\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0EBA605A-DFAE-459F-9455-DDD3CAF7ABAD}|Templ\\Templ.csproj|solutionrelative:templ\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a0550017-e1d7-4d15-bb20-88380d43322b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\VennDev\\OneDrive\\Desktop\\All\\Homework\\Templ\\Templ\\Startup.cs",
+              "RelativeDocumentMoniker": "Templ\\Startup.cs",
+              "ToolTip": "C:\\Users\\VennDev\\OneDrive\\Desktop\\All\\Homework\\Templ\\Templ\\Startup.cs",
+              "RelativeToolTip": "Templ\\Startup.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:25:51.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\VennDev\\OneDrive\\Desktop\\All\\Homework\\Templ\\Templ\\Web.config",
+              "RelativeDocumentMoniker": "Templ\\Web.config",
+              "ToolTip": "C:\\Users\\VennDev\\OneDrive\\Desktop\\All\\Homework\\Templ\\Templ\\Web.config",
+              "RelativeToolTip": "Templ\\Web.config",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-15T08:24:19.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\VennDev\\OneDrive\\Desktop\\All\\Homework\\Templ\\Templ\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Templ\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\VennDev\\OneDrive\\Desktop\\All\\Homework\\Templ\\Templ\\Global.asax.cs",
+              "RelativeToolTip": "Templ\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:23:02.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManagerController.cs",
+              "DocumentMoniker": "C:\\Users\\VennDev\\OneDrive\\Desktop\\All\\Homework\\Templ\\Templ\\Controllers\\ManagerController.cs",
+              "RelativeDocumentMoniker": "Templ\\Controllers\\ManagerController.cs",
+              "ToolTip": "C:\\Users\\VennDev\\OneDrive\\Desktop\\All\\Homework\\Templ\\Templ\\Controllers\\ManagerController.cs",
+              "RelativeToolTip": "Templ\\Controllers\\ManagerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:10:25.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\VennDev\\OneDrive\\Desktop\\All\\Homework\\Templ\\Templ\\Views\\Web.config",
+              "RelativeDocumentMoniker": "Templ\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\VennDev\\OneDrive\\Desktop\\All\\Homework\\Templ\\Templ\\Views\\Web.config",
+              "RelativeToolTip": "Templ\\Views\\Web.config",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-15T08:08:40.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\VennDev\\OneDrive\\Desktop\\All\\Homework\\Templ\\Templ\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Templ\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\VennDev\\OneDrive\\Desktop\\All\\Homework\\Templ\\Templ\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Templ\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAADIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:59:03.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\VennDev\\OneDrive\\Desktop\\All\\Homework\\Templ\\Templ\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Templ\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\VennDev\\OneDrive\\Desktop\\All\\Homework\\Templ\\Templ\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Templ\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T07:50:34.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
